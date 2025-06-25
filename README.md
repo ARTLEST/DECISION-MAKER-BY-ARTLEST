@@ -1,2 +1,4 @@
 # DECISION-MAKER-BY-ARTLEST
 This is the 18th project in my c++ series.
+Project - 18 
+DECISION MAKING WHEEL ALGORITHM SIMULATOR BY ARTLEST.
